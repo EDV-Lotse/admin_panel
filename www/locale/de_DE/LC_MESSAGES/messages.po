@@ -442,7 +442,7 @@ msgstr ""
 
 # modules/gphotofs/load.php:116
 msgid "Мбайт"
-msgstr ""
+msgstr "MByte"
 
 # modules/gphotofs/template.tpl:50
 msgid "Просмотр фотографий на USB медиаустройствах"
@@ -548,7 +548,7 @@ msgstr ""
 
 # modules/i2c/template.tpl:101
 msgid "Значение"
-msgstr ""
+msgstr "Wert"
 
 # modules/i2c/template.tpl:113
 msgid "Прочитать"
@@ -1177,7 +1177,7 @@ msgstr ""
 
 # modules/speech/template.tpl:143
 msgid "Язык"
-msgstr ""
+msgstr "Sprache"
 
 # modules/speech/template.tpl:145
 msgid "Русский"
@@ -1267,7 +1267,7 @@ msgstr ""
 
 # modules/uenv/params.tpl:223
 msgid "Ядро"
-msgstr ""
+msgstr "Kernel"
 
 # modules/uenv/params.tpl:230
 msgid "Память"
@@ -1296,7 +1296,7 @@ msgstr ""
 
 # modules/uenv/params.tpl:266
 msgid "Камера"
-msgstr ""
+msgstr "Kamera"
 
 # modules/uenv/params.tpl:274
 msgid "Видеовыход"
